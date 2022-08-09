@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <h3>My Job Applications</h3>
+          <h3>Job Application Tracker</h3>
         </h1>
 
         <p className={styles.description}>
@@ -16,13 +16,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a className={styles.card}>
-            <h2>list job here</h2>
-            <p>job description here</p>
-          </a>
-
-          <a className={styles.card}>
-            <h2>list job here</h2>
-            <p>job description here</p>
+            <h2>click here to go to application list</h2>
           </a>
 
         </div>
