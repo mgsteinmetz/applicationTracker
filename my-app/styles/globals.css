@@ -17,3 +17,20 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+/* 
+    MY GLOBAL STYLING??
+*/
+
+.form {
+  margin: 25px;
+}
+
+.form-group {
+  margin: 15px;
+}
+
+label {
+  margin: 10px;
+}
